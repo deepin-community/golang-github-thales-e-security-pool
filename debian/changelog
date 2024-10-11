@@ -1,5 +1,32 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-thales-e-security-pool (0.0.2-4) unstable; urgency=medium
 
-  * Initial release
+  [ Debian Janitor ]
+  * Apply multi-arch hints. + golang-github-thales-e-security-pool-dev: Add Multi-Arch: foreign.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+  [ Jelmer Vernooĳ ]
+  * releasing package golang-github-thales-e-security-pool version 0.0.2-3
+
+  [ Peymaneh ]
+  * Updating maintainer info
+  * Updating Standards-Version
+
+ -- Peymaneh <peymaneh@posteo.net>  Tue, 06 Dec 2022 20:54:00 +0100
+
+golang-github-thales-e-security-pool (0.0.2-3) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints. + golang-github-thales-e-security-pool-dev: Add Multi-Arch: foreign.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Sat, 26 Nov 2022 03:49:12 +0000
+
+golang-github-thales-e-security-pool (0.0.2-2) unstable; urgency=medium
+
+  * Testing migration
+
+ -- Peymaneh Nejad <p.nejad@posteo.de>  Tue, 24 Aug 2021 14:50:51 +0200
+
+golang-github-thales-e-security-pool (0.0.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #990948)
+
+ -- Peymaneh Nejad <p.nejad@posteo.de>  Sun, 11 Jul 2021 21:46:50 +0530
